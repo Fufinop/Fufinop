@@ -13,7 +13,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fufinop&label=Profile%20views&color=0e75b6&style=flat" alt="fufinop" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
