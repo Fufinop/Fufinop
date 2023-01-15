@@ -75,4 +75,7 @@
 
 ###
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fufinop)](https://github.com/anuraghazra/github-readme-stats)
+<img
+  src="https://github.com/fufinop/fufinop/blob/main/images/stat.svg"
+  alt="fufinop WakaTime Activity"
+/>
