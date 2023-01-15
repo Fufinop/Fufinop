@@ -71,37 +71,12 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 59 Contributions in the Year 2023
- > 
-> 📦 13.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I Mostly Code in HTML** 
-
-```text
-HTML                     7 repos             ███████████░░░░░░░░░░░░░░   46.67% 
-JavaScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--100%20Thousand%20lines%20of%20code-blue)
 
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/Fufinop/Fufinop/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/01/2023 04:24:32 UTC
+ Last Updated on 15/01/2023 04:40:15 UTC
 <!--END_SECTION:waka-->
