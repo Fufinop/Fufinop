@@ -36,16 +36,7 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats:</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=fufinop" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=fufinop" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <h2 align="left">Connect with me:</h2>
 
@@ -69,7 +60,7 @@
 </div>
 
 ###
-
+<h2 align="center">📊 Stats:</h2>
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--100%20Thousand%20lines%20of%20code-blue)
 
