@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100%" height = "250px" src="./LifeIs.png" alt="cover" />
+    <img width="100%" height = "400px" src="./LifeIs.png" alt="cover" />
 </div>
 
 ###
