@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">A passionate fullStack developer from Mexico</p>
+<p align="center">Student with love for knowledge, technology and photography. Fullstack developer learning web technologies. Always striving for progress.</p>
 
 ###
 
