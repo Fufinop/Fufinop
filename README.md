@@ -89,13 +89,15 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     3 mins              ████████████████░░░░░░░░░   62.75 % 
+TypeScript               1 min               █████████░░░░░░░░░░░░░░░░   36.42 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Portafolio               5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,5 +113,5 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2023 06:12:23 UTC
+ Last Updated on 14/07/2023 06:12:35 UTC
 <!--END_SECTION:waka-->
