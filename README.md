@@ -89,14 +89,13 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-HTML                     13 mins             ███████████████████████░░   91.43 % 
-CSS                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PortafolioChallenge      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -112,5 +111,5 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2023 06:10:49 UTC
+ Last Updated on 15/08/2023 06:10:23 UTC
 <!--END_SECTION:waka-->
