@@ -89,13 +89,14 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     27 mins             █████████████████████████   99.19 % 
+Ezhil                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 28 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+EscalaGrises             28 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,5 +112,5 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2023 06:10:52 UTC
+ Last Updated on 08/09/2023 06:10:57 UTC
 <!--END_SECTION:waka-->
