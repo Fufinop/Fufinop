@@ -89,15 +89,13 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Java                     1 hr 49 mins        ██████████████████████░░░   89.55 % 
-XML                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 2 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-EscalaGrises             2 hrs 2 mins        █████████████████████████   99.96 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -113,5 +111,5 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2023 06:09:55 UTC
+ Last Updated on 25/09/2023 06:11:59 UTC
 <!--END_SECTION:waka-->
