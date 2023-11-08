@@ -89,13 +89,13 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Teoria                   12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,5 +111,5 @@ Java                     3 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 07/11/2023 06:11:14 UTC
+ Last Updated on 08/11/2023 06:11:19 UTC
 <!--END_SECTION:waka-->
