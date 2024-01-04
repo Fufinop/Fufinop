@@ -89,13 +89,15 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    24 mins             █████████████████████████   98.87 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nextjs-shopify           24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,5 +113,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2024 06:11:12 UTC
+ Last Updated on 04/01/2024 06:11:33 UTC
 <!--END_SECTION:waka-->
