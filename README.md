@@ -54,67 +54,56 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://www.instagram.com/fufinop/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:ernestodelazamora@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/ernesto-de-la-rosa-zamora-636a28259/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/Fufinop" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
 
 ###
 
 <!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-190.0%20thousand%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-🌆 Daytime                151 commits         █████████░░░░░░░░░░░░░░░░   34.32 % 
-🌃 Evening                142 commits         ████████░░░░░░░░░░░░░░░░░   32.27 % 
-🌙 Night                  130 commits         ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+🌆 Daytime                151 commits         █████████░░░░░░░░░░░░░░░░   34.32 %
+🌃 Evening                142 commits         ████████░░░░░░░░░░░░░░░░░   32.27 %
+🌙 Night                  130 commits         ███████░░░░░░░░░░░░░░░░░░   29.55 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Mexico_City
 
-💬 Programming Languages: 
-Git Config               7 mins              ██████████░░░░░░░░░░░░░░░   41.34 % 
-JSON                     6 mins              █████████░░░░░░░░░░░░░░░░   36.56 % 
-Bash                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+💬 Programming Languages:
+Git Config               7 mins              ██████████░░░░░░░░░░░░░░░   41.34 %
+JSON                     6 mins              █████████░░░░░░░░░░░░░░░░   36.56 %
+Bash                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.46 %
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 
-🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  18 mins             █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-commerce                 12 mins             █████████████████░░░░░░░░   68.33 % 
-remix-run                5 mins              ████████░░░░░░░░░░░░░░░░░   31.67 % 
+🐱‍💻 Projects:
+commerce                 12 mins             █████████████████░░░░░░░░   68.33 %
+remix-run                5 mins              ████████░░░░░░░░░░░░░░░░░   31.67 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 %
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
+Last Updated on 13/01/2024 06:10:22 UTC
 
-
-
- Last Updated on 13/01/2024 06:10:22 UTC
 <!--END_SECTION:waka-->
