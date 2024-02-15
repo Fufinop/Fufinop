@@ -80,13 +80,13 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tienda                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,5 +102,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2024 06:11:40 UTC
+ Last Updated on 15/02/2024 06:11:05 UTC
 <!--END_SECTION:waka-->
