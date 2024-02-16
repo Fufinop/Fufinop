@@ -80,13 +80,15 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   10 mins             ████████████████████░░░░░   78.69 % 
+GitIgnore file           2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kotlin                   10 mins             ███████████████████░░░░░░   75.62 % 
+Unknown Project          3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,5 +104,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2024 06:11:05 UTC
+ Last Updated on 16/02/2024 06:11:02 UTC
 <!--END_SECTION:waka-->
