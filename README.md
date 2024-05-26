@@ -62,20 +62,20 @@
 ###
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-184.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203.5%20thousand%20lines%20of%20code-blue)
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   35.48 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               12 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
 
 
- Last Updated on 15/04/2024 06:12:30 UTC
+ Last Updated on 26/05/2024 04:45:14 UTC
 <!--END_SECTION:waka-->
