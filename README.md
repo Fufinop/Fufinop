@@ -80,14 +80,13 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Rust                     35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-RustRover                35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Learn Rust               35 mins             █████████████████████████   99.83 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,5 +102,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2024 06:13:03 UTC
+ Last Updated on 04/06/2024 06:12:58 UTC
 <!--END_SECTION:waka-->
