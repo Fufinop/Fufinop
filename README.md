@@ -80,13 +80,14 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     1 hr 7 mins         ████████████████████████░   94.39 % 
+TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+RustRover                1 hr 11 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Estudio                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,5 +103,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2024 06:13:04 UTC
+ Last Updated on 07/06/2024 06:13:22 UTC
 <!--END_SECTION:waka-->
