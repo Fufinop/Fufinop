@@ -80,13 +80,15 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSV/TSV                  15 mins             █████████████████░░░░░░░░   69.33 % 
+Kotlin                   6 mins              ████████░░░░░░░░░░░░░░░░░   30.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BaseDatosK               14 mins             █████████████████░░░░░░░░   67.03 % 
+test                     7 mins              ████████░░░░░░░░░░░░░░░░░   32.97 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,5 +104,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2024 06:15:35 UTC
+ Last Updated on 19/10/2024 06:13:50 UTC
 <!--END_SECTION:waka-->
