@@ -62,7 +62,32 @@
 ###
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-230.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-230.7%20thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+🌆 Daytime                136 commits         ████████░░░░░░░░░░░░░░░░░   32.93 % 
+🌃 Evening                134 commits         ████████░░░░░░░░░░░░░░░░░   32.45 % 
+🌙 Night                  126 commits         ████████░░░░░░░░░░░░░░░░░   30.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Mexico_City
+
+💬 Programming Languages: 
+Kotlin                   28 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+IntelliJ IDEA            28 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+KotlinBasics             28 mins             █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -77,5 +102,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2024 06:14:08 UTC
+ Last Updated on 27/10/2024 06:14:04 UTC
 <!--END_SECTION:waka-->
